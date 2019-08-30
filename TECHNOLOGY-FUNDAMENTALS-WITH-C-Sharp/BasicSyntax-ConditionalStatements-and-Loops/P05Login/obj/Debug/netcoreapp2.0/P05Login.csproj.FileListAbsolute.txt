@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Introduction\P05Login\bin\Debug\netcoreapp2.0\P05Login.deps.json
+C:\Users\user\source\repos\Introduction\P05Login\bin\Debug\netcoreapp2.0\P05Login.runtimeconfig.json
+C:\Users\user\source\repos\Introduction\P05Login\bin\Debug\netcoreapp2.0\P05Login.runtimeconfig.dev.json
+C:\Users\user\source\repos\Introduction\P05Login\bin\Debug\netcoreapp2.0\P05Login.dll
+C:\Users\user\source\repos\Introduction\P05Login\bin\Debug\netcoreapp2.0\P05Login.pdb
+C:\Users\user\source\repos\Introduction\P05Login\obj\Debug\netcoreapp2.0\P05Login.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Introduction\P05Login\obj\Debug\netcoreapp2.0\P05Login.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Introduction\P05Login\obj\Debug\netcoreapp2.0\P05Login.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Introduction\P05Login\obj\Debug\netcoreapp2.0\P05Login.AssemblyInfo.cs
+C:\Users\user\source\repos\Introduction\P05Login\obj\Debug\netcoreapp2.0\P05Login.dll
+C:\Users\user\source\repos\Introduction\P05Login\obj\Debug\netcoreapp2.0\P05Login.pdb

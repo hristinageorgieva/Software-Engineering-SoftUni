@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Introduction\Vending Machine\bin\Debug\netcoreapp2.0\Vending Machine.deps.json
+C:\Users\user\source\repos\Introduction\Vending Machine\bin\Debug\netcoreapp2.0\Vending Machine.runtimeconfig.json
+C:\Users\user\source\repos\Introduction\Vending Machine\bin\Debug\netcoreapp2.0\Vending Machine.runtimeconfig.dev.json
+C:\Users\user\source\repos\Introduction\Vending Machine\bin\Debug\netcoreapp2.0\Vending Machine.dll
+C:\Users\user\source\repos\Introduction\Vending Machine\bin\Debug\netcoreapp2.0\Vending Machine.pdb
+C:\Users\user\source\repos\Introduction\Vending Machine\obj\Debug\netcoreapp2.0\Vending Machine.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Introduction\Vending Machine\obj\Debug\netcoreapp2.0\Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Introduction\Vending Machine\obj\Debug\netcoreapp2.0\Vending Machine.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Introduction\Vending Machine\obj\Debug\netcoreapp2.0\Vending Machine.AssemblyInfo.cs
+C:\Users\user\source\repos\Introduction\Vending Machine\obj\Debug\netcoreapp2.0\Vending Machine.dll
+C:\Users\user\source\repos\Introduction\Vending Machine\obj\Debug\netcoreapp2.0\Vending Machine.pdb

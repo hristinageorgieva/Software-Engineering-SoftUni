@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\bin\Debug\netcoreapp2.0\P08Triangle of Numbers.deps.json
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\bin\Debug\netcoreapp2.0\P08Triangle of Numbers.runtimeconfig.json
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\bin\Debug\netcoreapp2.0\P08Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\bin\Debug\netcoreapp2.0\P08Triangle of Numbers.dll
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\bin\Debug\netcoreapp2.0\P08Triangle of Numbers.pdb
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\obj\Debug\netcoreapp2.0\P08Triangle of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\obj\Debug\netcoreapp2.0\P08Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\obj\Debug\netcoreapp2.0\P08Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\obj\Debug\netcoreapp2.0\P08Triangle of Numbers.AssemblyInfo.cs
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\obj\Debug\netcoreapp2.0\P08Triangle of Numbers.dll
+C:\Users\user\source\repos\Introduction\P08Triangle of Numbers\obj\Debug\netcoreapp2.0\P08Triangle of Numbers.pdb

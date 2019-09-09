@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\P01Train.deps.json
+C:\Users\user\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\P01Train.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\P01Train.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\P01Train.dll
+C:\Users\user\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\P01Train.pdb
+C:\Users\user\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\P01Train.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\P01Train.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\P01Train.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\P01Train.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\P01Train.dll
+C:\Users\user\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\P01Train.pdb

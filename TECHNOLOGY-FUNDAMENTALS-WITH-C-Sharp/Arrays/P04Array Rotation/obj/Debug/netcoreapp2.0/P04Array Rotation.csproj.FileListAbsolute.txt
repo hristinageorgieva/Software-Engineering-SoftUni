@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Arrays\P04Array Rotation\bin\Debug\netcoreapp2.0\P04Array Rotation.deps.json
+C:\Users\user\source\repos\Arrays\P04Array Rotation\bin\Debug\netcoreapp2.0\P04Array Rotation.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\P04Array Rotation\bin\Debug\netcoreapp2.0\P04Array Rotation.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\P04Array Rotation\bin\Debug\netcoreapp2.0\P04Array Rotation.dll
+C:\Users\user\source\repos\Arrays\P04Array Rotation\bin\Debug\netcoreapp2.0\P04Array Rotation.pdb
+C:\Users\user\source\repos\Arrays\P04Array Rotation\obj\Debug\netcoreapp2.0\P04Array Rotation.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays\P04Array Rotation\obj\Debug\netcoreapp2.0\P04Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\P04Array Rotation\obj\Debug\netcoreapp2.0\P04Array Rotation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\P04Array Rotation\obj\Debug\netcoreapp2.0\P04Array Rotation.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\P04Array Rotation\obj\Debug\netcoreapp2.0\P04Array Rotation.dll
+C:\Users\user\source\repos\Arrays\P04Array Rotation\obj\Debug\netcoreapp2.0\P04Array Rotation.pdb

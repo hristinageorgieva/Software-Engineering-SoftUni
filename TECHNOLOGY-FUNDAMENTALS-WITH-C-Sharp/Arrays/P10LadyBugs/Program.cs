@@ -69,7 +69,7 @@ namespace P10LadyBugs
                     {
                         while (result[newPosition] == 1)
                         {
-                            newPosition -= step; //същото като при righ, позицията се намаля със step
+                            newPosition -= step;
                         }
 
                         result[newPosition] = 1;

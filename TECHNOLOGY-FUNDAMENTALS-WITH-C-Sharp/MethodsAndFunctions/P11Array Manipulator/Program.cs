@@ -116,7 +116,7 @@ namespace P11ArrayManipulator
                 }
                 command = Console.ReadLine().Split(' ').ToArray();
             }
-            Console.WriteLine("[" + string.Join(", ", resultArr) + "]");
+            Console.WriteLine("[" + string.Join(", ", resultArr) + "]");//
         }
     }
 }

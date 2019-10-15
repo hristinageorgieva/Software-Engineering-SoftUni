@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\bin\Debug\netcoreapp2.0\P04List Operations.deps.json
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\bin\Debug\netcoreapp2.0\P04List Operations.runtimeconfig.json
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\bin\Debug\netcoreapp2.0\P04List Operations.runtimeconfig.dev.json
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\bin\Debug\netcoreapp2.0\P04List Operations.dll
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\bin\Debug\netcoreapp2.0\P04List Operations.pdb
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\obj\Debug\netcoreapp2.0\P04List Operations.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\obj\Debug\netcoreapp2.0\P04List Operations.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\obj\Debug\netcoreapp2.0\P04List Operations.AssemblyInfo.cs
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\obj\Debug\netcoreapp2.0\P04List Operations.dll
+C:\Users\user\source\repos\Lists and Arrays Advanced\P04List Operations\obj\Debug\netcoreapp2.0\P04List Operations.pdb

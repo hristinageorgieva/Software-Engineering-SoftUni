@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Lists and Arrays Advanced\Lists and Arrays Advanced\obj\Debug\netcoreapp2.0\P01Train.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists and Arrays Advanced\Lists and Arrays Advanced\obj\Debug\netcoreapp2.0\P01Train.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists and Arrays Advanced\Lists and Arrays Advanced\obj\Debug\netcoreapp2.0\P01Train.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lists and Arrays Advanced\Lists and Arrays Advanced\obj\Debug\netcoreapp2.0\P01Train.AssemblyInfo.cs
